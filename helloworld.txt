@@ -3,3 +3,14 @@ Made change 1
 
 
 sam is making this much better
+
+git clone <repo copied>
+
+git add . (adds all changed files)
+git commit -m "<my commit message>"
+
+git push (pushes to online branch that matches your same branch name)
+
+
+
+git pull (pulls all changes to your branch from online branch with same name)
