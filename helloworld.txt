@@ -14,3 +14,15 @@ git push (pushes to online branch that matches your same branch name)
 
 
 git pull (pulls all changes to your branch from online branch with same name)
+
+asfasdf
+asdf
+asd
+asdfasdf  
+asd
+asdf 
+
+
+git clone <repo copied>
+
+git add . (adds all changed files)
